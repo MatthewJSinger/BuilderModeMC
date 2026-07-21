@@ -1,0 +1,6 @@
+name: BuilderModeMC
+version: '${version}'
+
+main: org.moosedev.builderModeMC.BuilderModeMC
+api-version: '26.2'
+load: POSTWORLD
